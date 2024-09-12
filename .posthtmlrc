@@ -6,13 +6,430 @@
     "posthtml-expressions": {
       "root": "./src/partials",
       "locals": {
-        "top": [],
-        "body": [],
+        "top": [
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scrolly.html"
+            }
+          }
+        ],
+        "body": [
+          {
+            "type": "text",
+            "value": "Before University President Minouche Shafik’s April 17 testimony before the House Committee on Education and the Workforce, little was publicly known about the extent of Columbia’s discipline and surveillance of student protesters."
+          },
+          {
+            "type": "text",
+            "value": "Two months prior to the hearing, the University had released an <a href=\"https://www.columbiaspectator.com/news/2024/02/19/columbia-establishes-demonstration-areas-and-times-alters-disciplinary-procedure-for-students-in-violation-of-new-event-policy/\">interim demonstration policy</a>,<a href=\"https://www.columbiaspectator.com/news/2024/02/19/columbia-establishes-demonstration-areas-and-times-alters-disciplinary-procedure-for-students-in-violation-of-new-event-policy/\"> establishing</a> designated protest areas and times. In its <a href=\"https://www.columbiaspectator.com/news/2024/03/11/shafik-to-testify-alongside-board-of-trustees-leadership-in-congressional-columbia-in-crisis-hearing/\">March 11</a> announcement that Shafik would testify in a “Columbia in Crisis” hearing on antisemitism, the House committee said Columbia had failed to “enforce its own policies to protect Jewish students.”"
+          },
+          {
+            "type": "text",
+            "value": "Then-interim Provost Dennis Mitchell issued a <a href=\"https://www.columbiaspectator.com/news/2024/03/21/columbia-recommends-heightened-surveillance-measures-to-minimize-potential-disruptions-ahead-of-admitted-student-programming/\">set of event recommendations</a> to 47 top administrators on March 18 that included installing additional security cameras, setting up mobile CUID readers, and sharing attendee lists with Public Safety, according to an internal email obtained by Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Days later, Chief Operating Officer Cas Holloway released a statement confirming Columbia had <a href=\"https://www.columbiaspectator.com/news/2024/03/28/university-launches-investigation-bans-speakers-from-campus-following-unsanctioned-resistance-101-event/\">notified law enforcement</a> and “engaged an outside firm” to conduct an investigation into an “unsanctioned” March 24 event titled “Resistance 101,” which Columbia University Apartheid Divest promoted on social media. The event featured Khaled Barakat, who is an alleged member of a U.S.-designated terrorist organization and referred to his “friends and brothers in Hamas” during the event."
+          },
+          {
+            "type": "text",
+            "value": "Columbia banned the speakers from campus and <a href=\"https://www.columbiaspectator.com/news/2024/04/04/four-columbia-students-suspended-evicted-from-university-housing-following-unauthorized-resistance-101-event/\">indefinitely suspended and evicted</a> several students it accused of being tied to “Resistance 101.” Holloway also emailed students that the University identified as leaders of organizations belonging to CUAD, writing that they were “required to cooperate” if contacted for the investigation and that the event “engaged in discourse that supported terrorism and violence.”"
+          },
+          {
+            "type": "text",
+            "value": "In response to an alumni donor who raised concerns about “Resistance 101,” board of trustees co-chair David Greenwald, Law ’83, wrote that since Oct. 7, 2023, the University had initiated various disciplinary actions against at least 160 students, according to an email obtained by Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Shafik then revealed at the April 17 hearing that the University had suspended 15 students in relation to “antisemitic incidents,” presenting disciplinary measures as evidence of Columbia’s policy enforcement."
+          },
+          {
+            "type": "text",
+            "value": "But as the committee grilled Shafik in Washington, dozens of students were hours into an occupation of South Lawn as part of the first “<a href=\"https://www.columbiaspectator.com/news/2024/04/17/dozens-of-protesters-occupy-south-lawn-call-for-divestment-from-israel-ahead-of-shafik-testimony/\">Gaza Solidarity Encampment</a>,” pledging to remain until the University divested from companies with ties to Israel."
+          },
+          {
+            "type": "text",
+            "value": "It was the beginning of a cascade of events that led to Shafik’s authorization of the first New York Police Department sweep, a second encampment, the occupation of Hamilton Hall, and a second police sweep—all in <a href=\"https://www.columbiaspectator.com/news/2024/05/02/timeline-the-gaza-solidarity-encampment/\">the span of two weeks</a>. Police made over 200 arrests on campus, and Columbia and Barnard <a href=\"https://www.columbiaspectator.com/news/2024/01/31/the-trust-is-absolutely-broken-barnard-initiates-disciplinary-processes-against-students-after-unauthorized-protest/\">suspended</a> dozens of students."
+          },
+          {
+            "type": "text",
+            "value": "As Columbia braces for more protests, the exact number of students currently facing disciplinary action for unauthorized demonstrations remains unclear. The impacts of Columbia’s spring 2024 crackdown, however, reverberate as the University reexamines its approach to discipline and protest."
+          },
+          {
+            "type": "text",
+            "value": "“The safety of our community is our number one priority,” a University spokesperson wrote in a statement to Spectator. “Any investigation that is conducted is done so professionally, ethically and in accordance with applicable laws and university policies.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Private investigators </b>"
+          },
+          {
+            "type": "text",
+            "value": "Fadi Shuman, GS ’26, said he was getting ready to leave for prayer at sundown on April 1 during Ramadan when he heard his doorbell buzz. Through his apartment’s security camera, he said he saw two men in suits attempt to open the locked door."
+          },
+          {
+            "type": "text",
+            "value": "Shortly after, he received two phone calls from a man who identified himself as a private investigator hired by Columbia to look into an unauthorized event on campus, Shuman said. He let the calls go to voicemail."
+          },
+          {
+            "type": "text",
+            "value": "“I am a private investigator. My firm was hired by Columbia University to conduct an investigation into an unauthorized meeting that took place on March 24 at Q House. I believe it’s called ‘Resistance 101,’” the investigator said in the voicemail, which Spectator obtained. “They asked us to look into the matter and see if any of the instances pose a threat to any of the faculty, staff, or students. So we were just looking for your assistance. I believe the University is requiring your cooperation.”"
+          },
+          {
+            "type": "text",
+            "value": "The private investigator identified himself in the voicemail and was also named in emails from Holloway to students. He has worked for the investigations and forensic accounting firm Renaissance Associates since February 2023, according to his LinkedIn page."
+          },
+          {
+            "type": "text",
+            "value": "Renaissance Associates’ website states that the firm “works with clients to develop an effective surveillance strategy” and “employs experienced surveillance teams equipped with advanced technology.” It also reads that “former law enforcement agents” sit on some of their teams."
+          },
+          {
+            "type": "text",
+            "value": "A Renaissance Associates spokesperson declined to comment. The spokesperson did not confirm or deny that Columbia hired the firm for its investigation into “Resistance 101.”"
+          },
+          {
+            "type": "text",
+            "value": "Shuman attended “Resistance 101” but was not involved in its planning or organizing, he said. He said he didn’t know the event was unsanctioned by the University until after it occurred and that he complied with the investigation because he felt he had “nothing to hide.”"
+          },
+          {
+            "type": "text",
+            "value": "During his meeting with private investigators, Shuman said they showed him security footage of himself standing outside of Q House, an LGBTQ residence hall on campus where “Resistance 101” was held. The private investigators showed photos of different students from security footage and asked Shuman to identify them, he said. He said he told them that he didn’t recognize the other students in the photos."
+          },
+          {
+            "type": "text",
+            "value": "In June, Shuman was found “not responsible” for any charges related to “Resistance 101” through a separate disciplinary process under the Center for Student Success and Intervention, he said. Despite the dropped charges, Shuman said he continues to feel surveilled by the University."
+          },
+          {
+            "type": "text",
+            "value": "“I feel like I’m always on my toes. You know, if I see Public Safety, I got my eye on them. If I see the police anywhere near campus, I have my eye on them. It’s just a very uneasy feeling to even be living in Columbia residential still. I don’t feel comfortable,” Shuman said. “I try to not go on campus as much as possible.”"
+          },
+          {
+            "type": "text",
+            "value": "Aidan Parisi, a student at the School of Social Work, also heard a knock at the door of their Columbia residence hall on April 1. They said two private investigators stood outside their apartment, informed Parisi that they were there to investigate “Resistance 101,” and asked to have a conversation."
+          },
+          {
+            "type": "text",
+            "value": "“I told them no,” Parisi said."
+          },
+          {
+            "type": "text",
+            "value": "At the time Columbia announced an investigation into “Resistance 101,” Parisi—who is an organizer for Columbia Social Workers for Palestine—had been investigated and disciplined by the University for previous protest activity, they said. Parisi said that they attended “Resistance 101” but did not organize the event."
+          },
+          {
+            "type": "text",
+            "value": "The morning after investigators visited their doorstep, Parisi said they woke up to a “threatening email” from Holloway, who wrote that they would face disciplinary action if they did not speak with private investigators by 5 p.m. that day."
+          },
+          {
+            "type": "text",
+            "value": "Parisi never complied with the private investigators or responded to Holloway’s warning of disciplinary action, they said. They received an email from the Student Conduct Office on April 3 notifying them that they were placed on interim suspension for failure to comply with the private investigators."
+          },
+          {
+            "type": "text",
+            "value": "Parisi was preliminarily charged with disruptive behavior, endangerment, law violation, violation of University policy, and failure to comply, according to the email obtained by Spectator. The email stated that Parisi could remain in their residence for 24 hours, after which their access to residence and dining services would also be suspended. Parisi filed an appeal, which Columbia denied."
+          },
+          {
+            "type": "text",
+            "value": "Although the University gave Parisi a formal notice that they would receive paperwork from an eviction court, they were able to stay in their housing until the end of their lease, Parisi said."
+          },
+          {
+            "type": "text",
+            "value": "“I also didn’t, quite frankly, feel safe with the fact that there [were] cameras right outside my door, that they could watch me go everywhere, when I was leaving my house, when I was entering my home, so I decided to leave on my own,” Parisi said."
+          },
+          {
+            "type": "text",
+            "value": "Parisi said they had their CSSI hearing for “Resistance 101” in June, where they were “found responsible” for “not complying” with the private investigators. All other initial charges were dropped, according to Parisi. They said they are currently suspended through the 2024-25 academic year for participating in other unauthorized events on campus."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/X5DWMJDK5FBBTBO33WTYRJTE5I.jpg",
+              "caption": "",
+              "credit": "Gabriella Gregor-Splaver / Columbia Daily Spectator"
+            }
+          },
+          {
+            "type": "text",
+            "value": "When reached for comment, a University spokesperson referred to <a href=\"https://president.columbia.edu/news/statement-columbia-university-president-minouche-shafik-4-5-24\">Shafik’s April 5 statement</a> on “Resistance 101,” in which she wrote that the event was “an abhorrent breach of our values” and that “actions like this on our campus must have consequences.” Shafik added that the private investigators helped identify organizers and participants of “Resistance 101.”"
+          },
+          {
+            "type": "text",
+            "value": "“I did not become a university president to punish students,” Shafik wrote. “That I would ever have to declare the following is in itself surprising, but I want to make clear that it is absolutely unacceptable for any member of this community to promote the use of terror or violence.”"
+          },
+          {
+            "type": "text",
+            "value": "According to a University official, the investigators initially contacted students about the event “directly” but switched to reaching out to students via email, which “proved effective.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>CCTV and University delegates</b>"
+          },
+          {
+            "type": "text",
+            "value": "As disciplinary hearings continued in the spring, pro-Palestinian organizers increasingly urged students attending protests to conceal their identities by wearing face masks, avoid swiping their CUIDs before and after protests, and ensure that they only remove any face coverings once they are out of reach of CCTV cameras."
+          },
+          {
+            "type": "text",
+            "value": "Columbia had around 3,000 cameras installed across its campuses as of 2014, according to a <a href=\"https://bwog.com/2014/10/theyre-watching-out-for-you-increasing-security-and-surveillance-at-columbia-university/\">Bwog report</a> featuring an interview with then-Vice President of Public Safety James McShane. The figure predates the opening of Columbia’s Manhattanville campus and does not include Barnard or Teachers College, which are affiliate schools with their own security systems."
+          },
+          {
+            "type": "text",
+            "value": "A University spokesperson declined to provide Spectator with the current number of cameras installed across Columbia’s campuses."
+          },
+          {
+            "type": "text",
+            "value": "The spokesperson directed Spectator to Columbia’s <a href=\"https://universitypolicies.columbia.edu/content/cctv-monitoring-and-recording-policy\">CCTV Monitoring and Recording Policy</a>, which states that CCTV “may only be used to monitor and record for legitimate safety and security purposes.” CCTV footage may be accessed in situations including “The investigation or prevention of crime or violation of University policy.”"
+          },
+          {
+            "type": "text",
+            "value": "Only authorized Public Safety personnel may access CCTV footage except for some cases in which footage may be shared with other authorized University personnel on a “need-to-know basis.” The policy states that video monitoring will be conducted in a “professional, ethical, and legal manner … that respects the reasonable expectation of privacy among members of the community.”"
+          },
+          {
+            "type": "text",
+            "value": "Spectator reviewed Barnard’s <a href=\"https://barnard.edu/college-policies-procedures\">College Policies & Procedures webpage</a> and did not find a publicly available policy on CCTV specific to the college."
+          },
+          {
+            "type": "text",
+            "value": "After a Jan. 19 “divestment now” rally, Barnard used surveillance technologies to identify a first-year student who allegedly participated in the demonstration, Spectator <a href=\"https://www.columbiaspectator.com/news/2024/03/08/barnard-quietly-revises-student-code-of-conduct-webpage-students-face-more-disciplinary-proceedings-for-campus-activism/\">previously reported</a>."
+          },
+          {
+            "type": "text",
+            "value": "At a conduct meeting for an alleged violation of the Student Code of Conduct, administrators played CCTV footage of what they said was the first-year walking onto Barnard’s campus surrounded by a group of around a dozen people, according to a video of the meeting obtained by Spectator."
+          },
+          {
+            "type": "text",
+            "value": "The footage shows the group leaving the protest on Columbia’s campus and walking over to Barnard’s front gates. An administrator identified an individual whose face was covered by a mask and hat as the first-year, and then played footage claiming to show the first-year swiping their ID card to enter Barnard’s campus. The first-year denied during the meeting that she was the person in the CCTV footage."
+          },
+          {
+            "type": "text",
+            "value": "Less than two weeks after the meeting, she received an email stating that, upon reviewing her ID swipes, the corresponding CCTV footage, and a Public Safety officer’s account, Barnard administrators had determined it “more likely than not” that she had been properly identified in the footage and had violated Barnard policies."
+          },
+          {
+            "type": "text",
+            "value": "The college found her responsible for “disruptive behavior” and “unauthorized entry” for allegedly climbing over and removing barricades around Alma Mater during the rally, according to her disciplinary outcome email, which Spectator obtained."
+          },
+          {
+            "type": "text",
+            "value": "The first-year was sanctioned to two years of disciplinary probation, is expected to serve 50 hours of community service upon her return to campus, and must submit a reflection paper following completion of her community service hours. Her outcome notification email warned that “a future violation of College or University policy will result in more severe sanctions.”"
+          },
+          {
+            "type": "text",
+            "value": "In a statement to Spectator on the day before she received her disciplinary outcome email, the first-year wrote that she had decided to leave campus for the remainder of the spring 2024 semester “due to the distress that this has caused me, as well as end[ing] up in the hospital last week for the damage that this level of surveillance has caused to my mental and physical well-being.”"
+          },
+          {
+            "type": "text",
+            "value": "Barnard has resolved nearly all of its disciplinary proceedings with 86 students allegedly involved in unauthorized protests since Oct. 7, according to slides from a Sept. 9 faculty meeting reviewed by Spectator."
+          },
+          {
+            "type": "text",
+            "value": "“We’re confident in the integrity of our conduct process as well as our security and safety practices, which are aligned with peer institutions,” a Barnard spokesperson wrote in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Protesters have not only tried to dodge CCTV cameras stationed around campus, but they’ve also been cautious to remain anonymous to the University delegates dispatched to demonstrations."
+          },
+          {
+            "type": "text",
+            "value": "Delegates are affiliates appointed by the Office of the President or the rules administrator who “warn individuals and groups whose actions may violate these Rules and may declare their belief that the demonstration does not conform to the Rules of Conduct,” according to the Rules of University Conduct. The guidelines to the Rules <a href=\"https://www.columbiaspectator.com/news/2024/09/05/university-senate-revises-guidelines-supplementing-rules-of-university-conduct/\">passed by the University Senate in August</a> state that delegates can also “choose to photograph the individual and/or their identification” if a protester does not identify themself."
+          },
+          {
+            "type": "text",
+            "value": "Throughout the 2023-24 academic year, delegates monitored protests, handed out pamphlets, and asked protesters to show their CUIDs, warning them of interim sanctions if they did not comply and disperse."
+          },
+          {
+            "type": "text",
+            "value": "Two University delegates submitted a “disruption report” on Feb. 9 to the assistant rules administrator to identify individuals who walked out of an <a href=\"https://www.columbiaspectator.com/news/2024/02/13/protesters-interrupt-institute-of-global-politics-preventing-and-addressing-conflict-related-sexual-violence-event/\">event</a> titled “Preventing and Addressing Conflict-Related Sexual Violence” held at the School of International and Public Affairs. The event featured former Secretary of State and SIPA professor Hillary Clinton."
+          },
+          {
+            "type": "text",
+            "value": "One individual was identified and charged with six violations of the Rules of University Conduct, on the basis of the delegates’ disruption report, a Public Safety investigation that identified over 30 individuals, and six videos supplied by another delegate, according to an investigation report obtained by Spectator."
+          },
+          {
+            "type": "text",
+            "value": "A Columbia College student, who spoke to Spectator on the condition of anonymity citing fear of retaliation, said he was identified as engaging in “disruptive behavior” in January through a combination of CCTV footage, CUID swipes, and physical descriptors."
+          },
+          {
+            "type": "text",
+            "value": "The student’s case file, which Spectator reviewed and contains over a dozen documents, includes screen grabs from surveillance footage showing him entering different buildings, a CCTV clip, Public Safety incident reports, and discrimination reports."
+          },
+          {
+            "type": "text",
+            "value": "He was sanctioned to academic probation and warned that if he were caught breaking University policy again, the sanction could progress to suspension or expulsion, according to his outcome notification."
+          },
+          {
+            "type": "text",
+            "value": "That student was later among those arrested in the NYPD sweep of the “Gaza Solidarity Encampment” on April 18, during which police officers in riot gear <a href=\"https://www.columbiaspectator.com/news/2024/04/18/shafik-authorizes-nypd-to-sweep-gaza-solidarity-encampment-officers-in-riot-gear-arrest-over-100/\">arrested over 100 individuals</a>. In her letter to the NYPD authorizing the sweep, Shafik wrote that all the students on the lawns had been suspended—though students did not receive formal notice until later that day, after many had already been released from police custody."
+          },
+          {
+            "type": "text",
+            "value": "The Columbia College student was notified of his suspension via email on April 19 at around 5 p.m."
+          },
+          {
+            "type": "text",
+            "value": "“I could see all of my friends being slowly suspended one by one, and I knew that my time was going to come at some point and it was only a matter of hours,” he said."
+          },
+          {
+            "type": "text",
+            "value": "Following the April 18 arrests, 55 students at Barnard were suspended, and those that lived on campus were <a href=\"https://www.columbiaspectator.com/news/2024/04/23/barnard-suspends-and-evicts-at-least-53-students-outlines-steps-for-amnesty/\">evicted from their housing</a> and given 15 minutes to remove all of their items from their dorm rooms under supervision of a Community Accountability, Response, and Emergency Services officer."
+          },
+          {
+            "type": "text",
+            "value": "Desk attendants received printed papers to identify suspended students with photos, ID numbers, student emails, personal phone numbers, dorm room numbers, ages, class years, class schedules, and numbers of “incidents” cited in Barnard’s Simplicity Advocate Conduct records, according to three such documents reviewed by Spectator."
+          },
+          {
+            "type": "text",
+            "value": "When dozens of protesters <a href=\"https://www.columbiaspectator.com/news/2024/04/30/dozens-occupy-hamilton-hall-as-pro-palestinian-protests-spread-across-campus/\">occupied Hamilton</a> on April 30, they quickly covered security cameras with black trash bags after rushing inside the building. Months later in June, the Manhattan district attorney’s office <a href=\"https://www.columbiaspectator.com/news/2024/06/21/manhattan-das-office-dismisses-cases-against-30-hamilton-hall-protesters-14-due-to-reappear-in-court/\">dropped criminal trespassing charges</a> against 30 pro-Palestinian protesters because available evidence failed to show that they damaged property or injured NYPD officers. Prosecutors said they were unable to determine what happened inside because protesters blocked the cameras."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/UY235ZSSFBG5BA7ZN4EFX5NCJM.jpg",
+              "caption": "",
+              "credit": "Gabriella Gregor-Splaver / Columbia Daily Spectator"
+            }
+          },
+          {
+            "type": "text",
+            "value": "After protesters established a “<a href=\"https://www.columbiaspectator.com/news/2024/05/31/pro-palestinian-protesters-repitch-encampment-on-south-lawn-during-annual-alumni-reunion/\">Revolt 4 Rafah</a>” encampment on the east side of South Lawn on May 31, disrupting Columbia’s annual alumni reunion, the Office of the President warned in a June 3 email: “The University is moving forward with the process described in the Rules of University Conduct for those students who were identified as part of the encampment.”"
+          },
+          {
+            "type": "text",
+            "value": "The Task Force on Antisemitism wrote in both of its initial reports that difficulty identifying protesters, particularly those wearing masks, has impeded the University’s investigations."
+          },
+          {
+            "type": "text",
+            "value": "The task force’s <a href=\"https://www.columbiaspectator.com/news/2024/03/04/task-force-on-antisemitism-issues-first-report-raises-concern-over-enforcement-of-protest-policies/\">first report</a>, released in March, recommended a “more proactive effort” to identify protesters at demonstrations. In a <a href=\"https://www.columbiaspectator.com/news/2024/09/06/task-force-on-antisemitism-issues-second-report-detailing-student-testimonies-recommendations-for-antidiscrimination-training/\">second report</a> in August, the task force also raised concerns over the ability to identify individuals “committing acts of aggression or track recidivism rates” and quoted a student who said they found some individuals’ anonymity “very intimidating.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>‘A massive chilling effect’</b>"
+          },
+          {
+            "type": "text",
+            "value": "Some legal scholars warned of a chilling effect—the quelling of expression in fear of legal or disciplinary retaliation—settling over campus due to the University’s surveillance and discipline of students involved with on-campus activism."
+          },
+          {
+            "type": "text",
+            "value": "“It’s not just watching, it’s not just monitoring,” Torin Monahan, professor of communication at the University of North Carolina at Chapel Hill and co-editor in chief of Surveillance & Society, said. He said surveillance “has that power implication, that the idea behind it is to try to control activities or regulate them.”"
+          },
+          {
+            "type": "text",
+            "value": "Daragh Murray, senior lecturer in international human rights law at Queen Mary University of London, said that “surveillance and, in particular, the identification of protesters, has the potential to have a massive chilling effect on the right to freedom of assembly.”"
+          },
+          {
+            "type": "text",
+            "value": "“Protest is essentially the lifeblood of democracy and it should apply irrespective of any political opinion, like a pro-Palestinian or a pro-Israeli,” Murray said. “Everybody has the same right to protest and respecting that right is equally important.”"
+          },
+          {
+            "type": "text",
+            "value": "Bringing the NYPD onto campus can further curtail or chill speech, Monahan said, “and maybe even criminalizes the free speech of students when it leads to arrests.”"
+          },
+          {
+            "type": "text",
+            "value": "“That’s where I would think that a police presence changes the environment or changes the situation, so that it is no longer one of open debate and dialogue,” Monahan said. “Instead, it’s one of threats and consequences.”"
+          },
+          {
+            "type": "text",
+            "value": "Widney Brown, assistant term professor of human rights at Barnard and former senior director at Amnesty International, said that “the academy should be welcoming the discourse, the debate, and creating the space to have it—including protests.”"
+          },
+          {
+            "type": "text",
+            "value": "“Protests are a legitimate form of expression. Organizing is a legitimate form of expression,” Brown said. “The academy should be protecting that space, and it’s doing the exact opposite.”"
+          },
+          {
+            "type": "text",
+            "value": "On-campus surveillance and security measures have become the new norm at Columbia. Public Safety tents are stationed outside South Lawn, and as of Wednesday, the Morningside campus remains restricted to CUID holders under “Orange” status, requiring each individual to swipe their card to enter."
+          },
+          {
+            "type": "text",
+            "value": "Students that have been involved in pro-Palestinian protests told Spectator that the University’s employment of surveillance measures has made them feel watched even outside of demonstrations."
+          },
+          {
+            "type": "text",
+            "value": "Layla Saliba, SSW ’25, a Palestinian student protester, said that surveillance “creates a climate of fear and anxiety on campus.”"
+          },
+          {
+            "type": "text",
+            "value": "“I don’t like going on campus. It kind of feels like you’re in a panopticon, like every time you go on campus, somebody is always watching you to see what you’re doing or see what you’re saying,” Saliba said. “I’ve had administrators take photos of me while I’ve been on campus. I’ve had faculty members take photos of me while I’m on campus.”"
+          },
+          {
+            "type": "text",
+            "value": "“All the surveillance, it makes you feel like a zoo animal,” she added."
+          },
+          {
+            "type": "text",
+            "value": "Maryam Alwan, GS ’25, a Palestinian student organizer, said that she feels watched in her day-to-day life."
+          },
+          {
+            "type": "text",
+            "value": "“Even though I’m not doing anything wrong, I just feel constantly recognized by people, glared at by people, followed by people,” Alwan said. “People are taking pictures of me simply speaking with my friends.”"
+          },
+          {
+            "type": "text",
+            "value": "Prior to Oct. 7, Alwan said that she would frequently hang out with her friends on campus, studying in libraries and “perched up on Low Steps.” Now, she said that she feels campus is no longer welcoming to her due to the feeling of being monitored."
+          },
+          {
+            "type": "text",
+            "value": "“Everywhere I go, I see hostile architecture and all of these barricades reminding me that I don’t belong here,” Alwan said. “And on top of that, there are people—Public Safety, administrators, fellow students—who make me feel like I’m being watched, as if I would be a threat. It just makes me feel completely unwelcome.”"
+          },
+          {
+            "type": "text",
+            "value": "The University Senate in May <a href=\"https://www.columbiaspectator.com/news/2024/05/09/university-senate-calls-for-pause-on-student-protesters-disciplinary-proceedings-over-concerns-on-proper-adjudication/\">called for a halt</a> to ongoing disciplinary proceedings over concerns regarding proper adjudication and due process. In July, Columbia <a href=\"https://www.columbiaspectator.com/news/2024/07/29/majority-of-hamilton-hall-disciplinary-cases-moved-to-university-judicial-board/\">transferred</a> the majority of its disciplinary hearings for students involved in the Hamilton occupation—who are <a href=\"https://www.columbiaspectator.com/news/2024/04/30/protesters-occupying-hamilton-hall-will-face-expulsion-university-spokesperson-says/\">facing expulsion</a>—from the CSSI to the University Judicial Board, a five-member body that adjudicates violations of the Rules."
+          },
+          {
+            "type": "text",
+            "value": "Now, the senate is engaged in a review of the Rules of University Conduct, most recently issuing a <a href=\"https://www.columbiaspectator.com/news/2024/09/05/university-senate-revises-guidelines-supplementing-rules-of-university-conduct/\">set of guidelines</a> that are meant to help individuals understand the Rules. The guidelines will be sent to the board of trustees, Office of the President, University Life office, Office of the General Counsel, and Office of the Provost for review."
+          },
+          {
+            "type": "text",
+            "value": "“As opposed to chilling speech, the Rules provide clarity on the importance of free speech and also list the narrow limitations on free expression along with the expectations for enforcement and the adjudication process for instances of violations,” a University official wrote in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "“Recent actions by the University Senate and guidance issued by the Committee on the Rules of University Conduct emphasize both the cherished place that free expression has at Columbia University and an expectation that enforcement will take place consistently and fairly should there be instances of violations of the narrow restrictions,” the official added."
+          },
+          {
+            "type": "text",
+            "value": "Shafik <a href=\"https://www.columbiaspectator.com/news/2024/08/14/shafik-resigns-from-presidency/\">resigned from office</a> on Aug. 14 following fierce national criticism for her handling of student protests, academic freedom, and on-campus antisemitism. In the weeks since interim President Katrina Armstrong assumed the presidency, she <a href=\"https://www.columbiaspectator.com/news/2024/09/05/armstrong-announces-new-rules-administrator-updates-to-demonstration-procedures/\">has affirmed</a> the Rules of University Conduct’s authority to oversee on-campus protest."
+          },
+          {
+            "type": "text",
+            "value": "Armstrong wrote in a <a href=\"https://president.columbia.edu/news/update-our-approach-protests-and-demonstrations\">Sept. 5 email</a> to the Columbia community that the University is also “expanding and training the delegate pool,” who “support the University’s commitment to freedom of expression while identifying potential violations to the Rules of University Conduct.”"
+          },
+          {
+            "type": "text",
+            "value": "“I believe deeply in the values of free speech, open inquiry, and rigorous debate,” Armstrong wrote. “But those rights cannot come at the expense of the rights of others to live, work, and learn here, free from discrimination and harassment.”"
+          },
+          {
+            "type": "text",
+            "value": "In her address<a href=\"https://www.columbiaspectator.com/news/2024/09/03/armstrong-outlines-presidential-priorities-at-first-university-senate-meeting/\"> to the University Senate</a> at an Aug. 23 plenary session, Armstrong said that the University must maintain its ability to fulfill its academic mission. She also seemed, however, to signal a slightly different approach from Shafik, who faced criticism for her administration’s unilateral decision-making and lack of engagement with the senate."
+          },
+          {
+            "type": "text",
+            "value": "“We must also allow protests, must be able to manage disruptions without sacrificing that mission,” Armstrong said. “We must be able to hold those two truths at the same time.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>University News Editor Sarah Huddleston can be contacted at </i><a href=\"mailto:sarah.huddleston@columbiaspectator.com\"><i>sarah.huddleston@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Maya Stahl can be contacted at </i><a href=\"mailto:maya.stahl@columbiaspectator.com\"><i>maya.stahl@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Inside Columbia’s surveillance and disciplinary operation for student protesters",
+        "date": "September 12, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/sarah-huddleston/\">Sarah Huddleston</a> and <a href=\"https://www.columbiaspectator.com/contributors/maya-stahl/\">Maya Stahl</a>. Edited by <a href=\"https://www.columbiaspectator.com/contributors/isabella-ramirez/\">Isabella Ramírez</a>, <a href=\"https://www.columbiaspectator.com/contributors/esha-karam/\">Esha Karam</a>, <a href=\"https://www.columbiaspectator.com/contributors/shea-vance/\">Shea Vance</a>, Yvin Shin, and August Phillips. Cover illustration by Kelsea Petersen",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1Qd65lfV-pmhWjD-zuSdY2kIfhdzGxEUCEI5yEg5ysPA/edit"
       }
     }
   }
